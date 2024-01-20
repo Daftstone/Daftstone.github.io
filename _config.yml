@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chenwang Wu"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Happy every day"
 repository               : "Daftstone/Daftstone.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chenwang Wu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "University of Science and Technology of China"
   location         : "Hefei, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github Daftstone"
+  github           : "Daftstone"
   google_plus      :
   keybase          :
   instagram        :

@@ -52,6 +52,17 @@ My research interests include data mining, especially on recommender System Secu
 
 **Note**: * indicates the corresponding author
 
+# 🎖 Honors and Awards
+
+- *2023.07* KDD CUP 2023 Track 3: Next Product Generation - **Second Place**
+- *2022.11* NeurIPS-2022 Traffic4cast Track 1: Congestion Classes Prediction - **First Place**
+- *2022.11* NeurIPS-2022 Traffic4cast Track 2: Travel Time Prediction - **First Place**
+- *2021.10* National Scholarship
+- *2021.07* KDD CUP 2021 Track 1: Multi-Dataset Time Series Anomaly Detection - **Ninth Place**
+- *2020.07* KDD CUP 2020 Track 2: Graph Adversarial Attack & Defense - **Third Place**
+- *2018, 2019, 2021, 2023* The First-Class Scholarship
+- *2020, 2022* The Second-Class Scholarship
+
 # 📖 Educations
 
 - *2020.09 - 2024.06 (now)*, Ph.D. student, School of Data Science, University of Science and Technology of China. Advised by Prof. Defu Lian.
@@ -64,14 +75,6 @@ My research interests include data mining, especially on recommender System Secu
   - Design a fast and reliable interpretable method for black box models
   - Assess higher-order thinking of GPT based on psychological technology
   - Mentor: [Xiting Wang](https://scholar.google.com.hk/citations?user=urC8meQAAAAJ)
-
-# 🎖 Honors and Awards
-
-- National Scholarship, 2022
-- UESTC Academic Newcomer Award, 2022
-- First-class People's Scholarship (2019, 2021, 2022)
-- Alibaba’s Excellent Research Intern, 2020
-- AAAI 2019 Travel Award
 
 # ⏳ Professional Services
 

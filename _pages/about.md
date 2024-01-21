@@ -17,42 +17,67 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently a fourth-year Ph.D. candidate at School of Data Science, University of Science and Technology of China (USTC), under the advisory of Prof. [Defu Lian](https://faculty.ustc.edu.cn/liandefu). I got my B.S. degree from the Fuzhou University in 2018. 
+My research interests include data mining, especially on recommender System Security.
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+1. Chenwang Wu, Defu Lian, Yong Ge, Min Zhou, Enhong Chen, Dacheng Tao, Boosting factorization machines via saliency-guided mixup. IEEE Transactions on Pattern Analysis and Machine Intelligence. (TPAMI)
+2. Zhihao Zhu, Rui Fan, Chenwang Wu, Yi Yang, Defu Lian, Enhong Chen, Model Stealing Attack against Recommender System. arxiv.
+3. Zhihao Zhu, Chenwang Wu, Rui Fan, Yi Yang, Defu Lian, Enhong Chen, Model Stealing Attack against Graph Classification with Authenticity, Uncertainty and Diversity. arxiv.
+4. Yichang Xu, Chenwang Wu, Defu Lian, Toward Robust Recommendation via Real-time Vicinal Defense. arxiv.
+5. Chenwang Wu, Leyan Deng, Zhihao Zhu, Defu Lian, Co-visitation Meets Token Alignment for Next Product Title Generation. Amazon KDD Cup 2023 Workshop.
+6. Jin Chen, Zheng Liu, Xu Huang, Chenwang Wu, Qi Liu, Gangwei Jiang, Yuanhao Pu, Yuxuan Lei, Xiaolong Chen, Xingmei Wang, Defu Lian, Enhong Chen, When large language models meet personalization: Perspectives of challenges and opportunities. arxiv.
+7. Chenwang Wu, Defu Lian, Yong Ge, Zhihao Zhu, Enhong Chen, Influence-Driven Data Poisoning for Robust Recommender Systems. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+8. Zhihao Zhu, Chenwang Wu, Rui Fan, Defu Lian, Enhong Chen, Membership Inference Attacks Against Sequential Recommender Systems. The ACM Web Conference 2023. (WWW2023)
+9. Qingyang Wang, Chenwang Wu, Defu Lian, Enhong Chen, Securing Recommender System via Cooperative Training. World Wide Web. (WWWJ)
+10. Chaoqun Su, Chenwang Wu, Defu Lian, GridFormer: Spatial-Temporal Transformer Network for Citywide Crowd Flow Prediction. ECAI 2023 (ECAI2023)
+11. Chenwang Wu, Xiting Wang, Defu Lian, Xing Xie, Enhong Chen, A Causality Inspired Framework for Model Interpretation. The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (KDD2023)
+12. Qingyang Wang, Defu Lian, Chenwang Wu, Enhong Chen, Towards robust recommender systems via triple cooperative defense. International Conference on Web Information Systems Engineering 2022. (WISE2022, best paper)
+13. Leyan Deng, Chenwang Wu, Defu Lian, Min Zhou, Transposed Variational Auto-encoder with Intrinsic Feature Learning for Traffic Forecasting. arxiv.
+14. Zhihao Zhu, Chenwang Wu, Min Zhou, Hao Liao, Defu Lian, Enhong Chen, Resisting Graph Adversarial Attack via Cooperative Homophilous Augmentation. Joint European Conference on Machine Learning and Knowledge Discovery in Databases 2022. (PKDD 2022)
+15. Moritz Neun, Christian Eichenberger, Henry Martin, Markus Spanring, Rahul Siripurapu, Daniel Springer, Leyan Deng, Chenwang Wu, Defu Lian, Min Zhou, Martin Lumiste, Andrei Ilie, Xinhua Wu, Cheng Lyu, Qing-Long Lu, Vishal Mahajan, Yichao Lu, Jiezhang Li, Junjun Li, Yue-Jiao Gong, Florian Grötschla, Joël Mathys, Ye Wei, He Haitao, Hui Fang, Kevin Malm, Fei Tang, Michael Kopp, David Kreil, Sepp Hochreiter, Traffic4cast at NeurIPS 2022–Predict dynamics along graph edges from sparse node data: Whole city traffic and ETA from stationary vehicle detectors. NeurIPS 2022 Competition Track.
+16. Wenjian Luo, Chenwang Wu, Li Ni, Nan Zhou, Zhenya Zhang, Detecting adversarial examples by positive and negative representations. Applied Soft Computing.
+17. Leyan Deng, Chenwang Wu, Defu Lian, Yongji Wu, Enhong Chen, Markov-driven graph convolutional networksfor social spammer detection. IEEE Transactions on Knowledge and Data Engineering. (TKDE)
+18. Leyan Deng, Defu Lian, Chenwang Wu, Enhong Chen, Graph Convolution Network based Recommender Systems: Learning Guarantee and Item Mixture Powered Strategy. Advances in Neural Information Processing Systems 2022. (NeurIPS2022)
+19. Chenwang Wu, Defu Lian, Yong Ge, Zhihao Zhu, Enhong Chen, Triple adversarial learning for influence based poisoning attack in recommender systems. The 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. (KDD2021)
+20. Chenwang Wu, Defu Lian, Yong Ge, Zhihao Zhu, Enhong Chen, Senchao Yuan, Fight fire with fire: towards robust recommender systems via adversarial poisoning training. the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. (SIGIR2021)
+21. Chenwang Wu, Wenjian Luo, Nan Zhou, Peilan Xu, Tao Zhu, Genetic algorithm with multiple fitness functions for generating adversarial examples. 2021 IEEE Congress on Evolutionary Computation.
+22. Hao Jiang, Wenjian Luo, Binyao Duan, Chenwang Wu, Enhancing the privacy of negative surveys using negative combined categories. Applied Soft Computing.
+23. Wenjian Luo, Chenwang Wu, Nan Zhou, Li Ni, Random directional attack for fooling deep neural networks. arxiv.
+24. Yu Chen, Youshen Xia, Chenwang Wu, A crop-based multi-branch network for matching cost computation. CISP-BMEI 2018.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.07* KDD CUP 2023 Track 3: Next Product Generation - **Second Place**
+- *2022.11* NeurIPS-2022 Traffic4cast Track 1: Congestion Classes Prediction - **First Place**
+- *2022.11* NeurIPS-2022 Traffic4cast Track 2: Travel Time Prediction - **First Place**
+- *2021.10* National Scholarship
+- *2021.07* KDD CUP 2021 Track 1: Multi-Dataset Time Series Anomaly Detection - **Ninth Place**
+- *2020.07* KDD CUP 2020 Track 2: Graph Adversarial Attack & Defense - **Third Place**
+- *2018, 2019, 2021, 2023* The First-Class Scholarship
+- *2020, 2022* The Second-Class Scholarship
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2020.09 - 2024.06 (now)*, Ph.D. student, School of Data Science, University of Science and Technology of China. Advised by Prof. Defu Lian.
+- *2018.09 - 2020.06*, Master, School of Computer Science and Technology, University of Science and Technology of China. Advised by Prof. Wenjian Luo.
+- *2014.09 - 2018.06*, Bachelor, College of Mathematics and Computer Science, Fuzhou University.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.06 - 2023.06*, Social computing Group, Microsoft Research Asia. 
+  - Design a fast and reliable interpretable method for black box models
+  - Assess higher-order thinking of GPT based on psychological technology
+  - Mentor: [Xiting Wang](https://scholar.google.com.hk/citations?user=urC8meQAAAAJ)
+
+# 💬 Professional Services
+- PC member, KDD 2024, 2023
+- PC member, AAAI 2023
+- PC member, CIKM 2023, 2022
+- PC member, SDM, 2023
+- PC member, ECML-PKDD 2023
+- PC member, WWW 2022
+- Reviewer of IEEE Transactions on Knowledge and Data Engineering
+- Reviewer of ACM Transactions on Information Systems
+- Reviewer of World Wide Web Journal
+- Reviewer of Journal of Computer Research and Development
+- Reviewer of Journal of Data Science and Analytics

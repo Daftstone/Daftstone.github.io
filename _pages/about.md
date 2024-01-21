@@ -50,18 +50,20 @@ My research interests include data mining, especially on recommender System Secu
 23. Wenjian Luo, Chenwang Wu, Nan Zhou, Li Ni, Random directional attack for fooling deep neural networks. arxiv.
 24. Yu Chen, Youshen Xia, Chenwang Wu, A crop-based multi-branch network for matching cost computation. CISP-BMEI 2018.
 
-&emsp; &emsp; &emsp; &emsp; **Note**: * indicates the corresponding author
+**Note**: * indicates the corresponding author
 
 # 📖 Educations
 
-- *2014.09 - 2018.06*, School of Computer Science and Engineering, University of Electronic Science and Technology of China, Bachelor. 
-- *2020.09 - 2023.12 (expected)*, School of Computer Science and Engineering, University of Electronic Science and Technology of China, Ph.D. student.
+- *2020.09 - 2024.06 (now)*, Ph.D. student, School of Data Science, University of Science and Technology of China. Advised by Prof. Defu Lian.
+- *2018.09 - 2020.06*, Master, School of Computer Science and Technology, University of Science and Technology of China. Advised by Prof. Wenjian Luo.
+- *2014.09 - 2018.06*, Bachelor, College of Mathematics and Computer Science, Fuzhou University.
 
 # 💻 Internships
 
-- *2019.10 - 2020.10*, Alimama, Alibab Group, Beijing, China.
-  - Online Advertising Creative Optimization
-  - Mentor: [Tiezheng Ge](https://scholar.google.com/citations?user=db5ZTlMAAAAJ&hl=en)
+- *2022.06 - 2023.06*, Social computing Group, Microsoft Research Asia. 
+  - Design a fast and reliable interpretable method for black box models
+  - Assess higher-order thinking of GPT based on psychological technology
+  - Mentor: [Xiting Wang](https://scholar.google.com.hk/citations?user=urC8meQAAAAJ)
 
 # 🎖 Honors and Awards
 

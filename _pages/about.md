@@ -33,7 +33,7 @@ My research interests include data mining, especially on recommender System Secu
 6. Jin Chen, Zheng Liu, Xu Huang, **Chenwang Wu**, Qi Liu, Gangwei Jiang, Yuanhao Pu, Yuxuan Lei, Xiaolong Chen, Xingmei Wang, Defu Lian, Enhong Chen, When large language models meet personalization: Perspectives of challenges and opportunities. arxiv.
 7. **Chenwang Wu**, Defu Lian, Yong Ge, Zhihao Zhu, Enhong Chen, Influence-Driven Data Poisoning for Robust Recommender Systems. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 8. Zhihao Zhu, **Chenwang Wu**, Rui Fan, Defu Lian, Enhong Chen, Membership Inference Attacks Against Sequential Recommender Systems. The ACM Web Conference 2023. (WWW2023)
-9. Qingyang Wang^+^, **Chenwang Wu^+^**, Defu Lian, Enhong Chen, Securing Recommender System via Cooperative Training. World Wide Web. (WWWJ)
+9. Qingyang Wang<sup>+</sup>, **Chenwang Wu<sup>+</sup>**, Defu Lian, Enhong Chen, Securing Recommender System via Cooperative Training. World Wide Web. (WWWJ)
 10. Chaoqun Su, **Chenwang Wu**, Defu Lian, GridFormer: Spatial-Temporal Transformer Network for Citywide Crowd Flow Prediction. ECAI 2023 (ECAI2023)
 11. **Chenwang Wu**, Xiting Wang, Defu Lian, Xing Xie, Enhong Chen, A Causality Inspired Framework for Model Interpretation. The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (KDD2023)
 12. Qingyang Wang, Defu Lian, **Chenwang Wu**, Enhong Chen, Towards robust recommender systems via triple cooperative defense. International Conference on Web Information Systems Engineering 2022. (WISE2022, best paper)

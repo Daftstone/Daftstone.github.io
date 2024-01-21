@@ -26,7 +26,7 @@ My research interests include data mining, especially on recommender System Secu
 
 # 📝 Publications 
 1. **Chenwang Wu**, Defu Lian, Yong Ge, Min Zhou, Enhong Chen, Dacheng Tao, Boosting factorization machines via saliency-guided mixup. IEEE Transactions on Pattern Analysis and Machine Intelligence. (**TPAMI**)
-5. **Chenwang Wu**, Leyan Deng, Zhihao Zhu, Defu Lian, Co-visitation Meets Token Alignment for Next Product Title Generation. Amazon KDD Cup 2023 Workshop.
+5. **Chenwang Wu**, Leyan Deng, Zhihao Zhu, Defu Lian, Co-visitation Meets Token Alignment for Next Product Title Generation. **Amazon KDD Cup 2023 Workshop**.
 7. **Chenwang Wu**, Defu Lian, Yong Ge, Zhihao Zhu, Enhong Chen, Influence-Driven Data Poisoning for Robust Recommender Systems. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
 8. Zhihao Zhu, **Chenwang Wu**, Rui Fan, Defu Lian, Enhong Chen, Membership Inference Attacks Against Sequential Recommender Systems. The ACM Web Conference 2023. (**WWW2023**)
 9. Qingyang Wang<sup>+</sup>, **Chenwang Wu<sup>+</sup>**, Defu Lian, Enhong Chen, Securing Recommender System via Cooperative Training. World Wide Web. (**WWWJ**)
@@ -34,15 +34,15 @@ My research interests include data mining, especially on recommender System Secu
 11. **Chenwang Wu**, Xiting Wang, Defu Lian, Xing Xie, Enhong Chen, A Causality Inspired Framework for Model Interpretation. The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (**KDD2023**)
 12. Qingyang Wang, Defu Lian, **Chenwang Wu**, Enhong Chen, Towards robust recommender systems via triple cooperative defense. International Conference on Web Information Systems Engineering 2022. (**WISE2022, best paper**)
 14. Zhihao Zhu, **Chenwang Wu**, Min Zhou, Hao Liao, Defu Lian, Enhong Chen, Resisting Graph Adversarial Attack via Cooperative Homophilous Augmentation. Joint European Conference on Machine Learning and Knowledge Discovery in Databases 2022. (**PKDD 2022**)
-15. Moritz Neun, Christian Eichenberger, Henry Martin, Markus Spanring, Rahul Siripurapu, Daniel Springer, Leyan Deng, **Chenwang Wu**, Defu Lian, Min Zhou, Martin Lumiste, Andrei Ilie, Xinhua Wu, Cheng Lyu, Qing-Long Lu, Vishal Mahajan, Yichao Lu, Jiezhang Li, Junjun Li, Yue-Jiao Gong, Florian Grötschla, Joël Mathys, Ye Wei, He Haitao, Hui Fang, Kevin Malm, Fei Tang, Michael Kopp, David Kreil, Sepp Hochreiter, Traffic4cast at NeurIPS 2022–Predict dynamics along graph edges from sparse node data: Whole city traffic and ETA from stationary vehicle detectors. NeurIPS 2022 Competition Track.
+15. Moritz Neun, Christian Eichenberger, Henry Martin, Markus Spanring, Rahul Siripurapu, Daniel Springer, Leyan Deng, **Chenwang Wu**, Defu Lian, Min Zhou, Martin Lumiste, Andrei Ilie, Xinhua Wu, Cheng Lyu, Qing-Long Lu, Vishal Mahajan, Yichao Lu, Jiezhang Li, Junjun Li, Yue-Jiao Gong, Florian Grötschla, Joël Mathys, Ye Wei, He Haitao, Hui Fang, Kevin Malm, Fei Tang, Michael Kopp, David Kreil, Sepp Hochreiter, Traffic4cast at NeurIPS 2022–Predict dynamics along graph edges from sparse node data: Whole city traffic and ETA from stationary vehicle detectors. **NeurIPS 2022 Competition Track**.
 16. Wenjian Luo, **Chenwang Wu**, Li Ni, Nan Zhou, Zhenya Zhang, Detecting adversarial examples by positive and negative representations. Applied Soft Computing.
 17. Leyan Deng, **Chenwang Wu**, Defu Lian, Yongji Wu, Enhong Chen, Markov-driven graph convolutional networksfor social spammer detection. IEEE Transactions on Knowledge and Data Engineering. (**TKDE**)
 18. Leyan Deng, Defu Lian, **Chenwang Wu**, Enhong Chen, Graph Convolution Network based Recommender Systems: Learning Guarantee and Item Mixture Powered Strategy. Advances in Neural Information Processing Systems 2022. (**NeurIPS2022**)
 19. **Chenwang Wu**, Defu Lian, Yong Ge, Zhihao Zhu, Enhong Chen, Triple adversarial learning for influence based poisoning attack in recommender systems. The 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. (**KDD2021**)
 20. **Chenwang Wu**, Defu Lian, Yong Ge, Zhihao Zhu, Enhong Chen, Senchao Yuan, Fight fire with fire: towards robust recommender systems via adversarial poisoning training. the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR2021**)
-21. **Chenwang Wu**, Wenjian Luo, Nan Zhou, Peilan Xu, Tao Zhu, Genetic algorithm with multiple fitness functions for generating adversarial examples. 2021 IEEE Congress on Evolutionary Computation.
-22. Hao Jiang, Wenjian Luo, Binyao Duan, **Chenwang Wu**, Enhancing the privacy of negative surveys using negative combined categories. Applied Soft Computing.
-24. Yu Chen, Youshen Xia, **Chenwang Wu**, A crop-based multi-branch network for matching cost computation. CISP-BMEI 2018.
+21. **Chenwang Wu**, Wenjian Luo, Nan Zhou, Peilan Xu, Tao Zhu, Genetic algorithm with multiple fitness functions for generating adversarial examples. 2021 IEEE Congress on Evolutionary Computation (**CEC2021**).
+22. Hao Jiang, Wenjian Luo, Binyao Duan, **Chenwang Wu**, Enhancing the privacy of negative surveys using negative combined categories. **Applied Soft Computing**.
+24. Yu Chen, Youshen Xia, **Chenwang Wu**, A crop-based multi-branch network for matching cost computation. **CISP-BMEI 2018**.
 
 &emsp; &emsp; **Note**: <sup>+</sup> indicates These authors contributed equally to this work.
 

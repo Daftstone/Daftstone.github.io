@@ -50,7 +50,7 @@ My research interests include data mining, especially on recommender System Secu
 23. Wenjian Luo, **Chenwang Wu**, Nan Zhou, Li Ni, Random directional attack for fooling deep neural networks. arxiv.
 24. Yu Chen, Youshen Xia, **Chenwang Wu**, A crop-based multi-branch network for matching cost computation. CISP-BMEI 2018.
 
-**Note**: ^+^ indicates These authors contributed equally to this work.
+**Note**: <sup>+</sup> indicates These authors contributed equally to this work.
 
 # 🎖 Honors and Awards
 

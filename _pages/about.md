@@ -25,11 +25,6 @@ My research interests include data mining, especially on recommender System Secu
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-1. Boosting factorization machines via saliency-guided mixup
-   
-   **Chenwang Wu**, Defu Lian, Yong Ge, Min Zhou, Enhong Chen, Dacheng Tao
-   
-   IEEE Transactions on Pattern Analysis and Machine Intelligence. (**TPAMI**)
 1. **Chenwang Wu**, Defu Lian, Yong Ge, Min Zhou, Enhong Chen, Dacheng Tao, Boosting factorization machines via saliency-guided mixup. IEEE Transactions on Pattern Analysis and Machine Intelligence. (**TPAMI**)
 5. **Chenwang Wu**, Leyan Deng, Zhihao Zhu, Defu Lian, Co-visitation Meets Token Alignment for Next Product Title Generation. **Amazon KDD Cup 2023 Workshop**.
 7. **Chenwang Wu**, Defu Lian, Yong Ge, Zhihao Zhu, Enhong Chen, Influence-Driven Data Poisoning for Robust Recommender Systems. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)

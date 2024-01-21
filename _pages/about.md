@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a fourth-year Ph.D. candidate at School of Data Science, University of Science and Technology of China (USTC), under the advisory of Prof. [Defu Lian](https://faculty.ustc.edu.cn/liandefu). I got my B.S. degree from the Fuzhou University in 2018. 
+I am currently a fourth-year Ph.D. candidate, under the advisory of Prof. [Defu Lian](https://faculty.ustc.edu.cn/liandefu), at the School of Data Science, University of Science and Technology of China (USTC). I got my B.S. degree from the Fuzhou University in 2018. 
+
 My research interests include data mining, especially on recommender System Security.
 
 <!-- # 🔥 News

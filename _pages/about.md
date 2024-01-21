@@ -42,9 +42,9 @@ My research interests include data mining, especially on recommender System Secu
 20. **Chenwang Wu**, Defu Lian, Yong Ge, Zhihao Zhu, Enhong Chen, Senchao Yuan, Fight fire with fire: towards robust recommender systems via adversarial poisoning training. the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR2021**)
 21. **Chenwang Wu**, Wenjian Luo, Nan Zhou, Peilan Xu, Tao Zhu, Genetic algorithm with multiple fitness functions for generating adversarial examples. 2021 IEEE Congress on Evolutionary Computation (**CEC2021**).
 22. Hao Jiang, Wenjian Luo, Binyao Duan, **Chenwang Wu**, Enhancing the privacy of negative surveys using negative combined categories. **Applied Soft Computing**.
-24. Yu Chen, Youshen Xia, **Chenwang Wu**, A crop-based multi-branch network for matching cost computation. **CISP-BMEI 2018**.
+24. Yu Chen, Youshen Xia, **Chenwang Wu**, A crop-based multi-branch network for matching cost computation. 11th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics. (**CISP-BMEI 2018**).
 
-&emsp; &emsp; **Note**: <sup>+</sup> indicates These authors contributed equally to this work.
+&emsp; &emsp; **Note**: <sup>+</sup> indicates these authors contributed equally to this work.
 
 # 🎖 Honors and Awards
 

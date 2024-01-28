@@ -27,12 +27,12 @@ My research interests include data mining, especially on recommender System Secu
 
 # 📝 Publications 
 1. **Chenwang Wu**, Defu Lian, Yong Ge, Min Zhou, Enhong Chen, Dacheng Tao, Boosting factorization machines via saliency-guided mixup. IEEE Transactions on Pattern Analysis and Machine Intelligence. (**TPAMI**)
-5. **Chenwang Wu**, Leyan Deng, Zhihao Zhu, Defu Lian, Co-visitation Meets Token Alignment for Next Product Title Generation. **Amazon KDD Cup 2023 Workshop**.
+2. **Chenwang Wu**, Leyan Deng, Zhihao Zhu, Defu Lian, Co-visitation Meets Token Alignment for Next Product Title Generation. **Amazon KDD Cup 2023 Workshop**.
+6. **Chenwang Wu**, Xiting Wang, Defu Lian, Xing Xie, Enhong Chen, A Causality Inspired Framework for Model Interpretation. The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (**KDD2023**)
 7. **Chenwang Wu**, Defu Lian, Yong Ge, Zhihao Zhu, Enhong Chen, Influence-Driven Data Poisoning for Robust Recommender Systems. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
-8. Zhihao Zhu, **Chenwang Wu**, Rui Fan, Defu Lian, Enhong Chen, Membership Inference Attacks Against Sequential Recommender Systems. The ACM Web Conference 2023. (**WWW2023**)
-9. Qingyang Wang<sup>+</sup>, **Chenwang Wu<sup>+</sup>**, Defu Lian, Enhong Chen, Securing Recommender System via Cooperative Training. World Wide Web. (**WWWJ**)
+8. Qingyang Wang<sup>+</sup>, **Chenwang Wu<sup>+</sup>**, Defu Lian, Enhong Chen, Securing Recommender System via Cooperative Training. World Wide Web. (**WWWJ**)
+9. Zhihao Zhu, **Chenwang Wu**, Rui Fan, Defu Lian, Enhong Chen, Membership Inference Attacks Against Sequential Recommender Systems. The ACM Web Conference 2023. (**WWW2023**)
 10. Chaoqun Su, **Chenwang Wu**, Defu Lian, GridFormer: Spatial-Temporal Transformer Network for Citywide Crowd Flow Prediction. ECAI 2023 (**ECAI2023**)
-11. **Chenwang Wu**, Xiting Wang, Defu Lian, Xing Xie, Enhong Chen, A Causality Inspired Framework for Model Interpretation. The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (**KDD2023**)
 12. Qingyang Wang, Defu Lian, **Chenwang Wu**, Enhong Chen, Towards robust recommender systems via triple cooperative defense. International Conference on Web Information Systems Engineering 2022. (**WISE2022, best paper**)
 14. Zhihao Zhu, **Chenwang Wu**, Min Zhou, Hao Liao, Defu Lian, Enhong Chen, Resisting Graph Adversarial Attack via Cooperative Homophilous Augmentation. Joint European Conference on Machine Learning and Knowledge Discovery in Databases 2022. (**PKDD 2022**)
 15. Moritz Neun, Christian Eichenberger, Henry Martin, Markus Spanring, Rahul Siripurapu, Daniel Springer, Leyan Deng, **Chenwang Wu**, Defu Lian, Min Zhou, et al., Traffic4cast at NeurIPS 2022–Predict dynamics along graph edges from sparse node data: Whole city traffic and ETA from stationary vehicle detectors. **NeurIPS 2022 Competition Track**.

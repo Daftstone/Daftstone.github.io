@@ -52,11 +52,11 @@ My research interests include data mining, especially on recommender System Secu
 - *2023.07* KDD CUP 2023 Track 3: Next Product Generation - **Second Place**
 - *2022.11* NeurIPS 2022 Traffic4cast Track 1: Congestion Classes Prediction - **First Place**
 - *2022.11* NeurIPS 2022 Traffic4cast Track 2: Travel Time Prediction - **First Place**
+- *2021.10* National Scholarship
 - *2021.07* KDD CUP 2021 Track 1: Multi-Dataset Time Series Anomaly Detection - **Ninth Place**
 - *2020.07* KDD CUP 2020 Track 2: Graph Adversarial Attack & Defense - **Third Place**
-- *2021.10* National Scholarship
-- *2018, 2019, 2021, 2023* The First-Class Scholarship
-- *2020, 2022* The Second-Class Scholarship
+- *2023, 2021, 2019, 2018* The First-Class Scholarship
+- *2022, 2020* The Second-Class Scholarship
 
 # 📖 Educations
 

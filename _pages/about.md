@@ -48,7 +48,7 @@ My research interests include data mining, especially on recommender System Secu
 &emsp; &emsp; **Note**: <sup>+</sup> indicates these authors contributed equally to this work.
 
 # 🎖 Honors and Awards
-
+- *2023.10* Guorui Scholarship
 - *2023.07* KDD CUP 2023 Track 3: Next Product Generation - **Second Place**
 - *2022.11* NeurIPS 2022 Traffic4cast Track 1: Congestion Classes Prediction - **First Place**
 - *2022.11* NeurIPS 2022 Traffic4cast Track 2: Travel Time Prediction - **First Place**

@@ -26,6 +26,7 @@ My research interests include data mining, especially on recommender System Secu
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+1. **Chenwang Wu**, Defu Lian, Yong Ge, Min Zhou, Enhong Chen, Attacking Social Media via Behavior Poisoning. ACM Transactions on Knowledge Discovery from Data. (**TKDD**)
 1. **Chenwang Wu**, Defu Lian, Yong Ge, Min Zhou, Enhong Chen, Dacheng Tao, Boosting factorization machines via saliency-guided mixup. IEEE Transactions on Pattern Analysis and Machine Intelligence. (**TPAMI**)
 11. Chaoqun Su, **Chenwang Wu**, Defu Lian, GridFormer: Spatial-Temporal Transformer Network for Citywide Crowd Flow Prediction. ECAI 2023 (**ECAI2023**)
 6. **Chenwang Wu**, Xiting Wang, Defu Lian, Xing Xie, Enhong Chen, A Causality Inspired Framework for Model Interpretation. The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (**KDD2023**)

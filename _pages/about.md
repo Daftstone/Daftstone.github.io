@@ -26,6 +26,8 @@ My research interests include data mining, especially on recommender System Secu
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+1. Jin Chen, Zheng Liu, Xu Huang, **Chenwang Wu**, Qi Liu, Gangwei Jiang, Yuanhao Pu, Yuxuan Lei, Xiaolong Chen, Xingmei Wang, Defu Lian, Enhong Chen. When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities. World Wide Web. (**WWWJ**)
+2. Kaiyu Jin, **Chenwang Wu**, Defu Lian. Out-of-Distribution Generalization via Style and Spuriousness Eliminating. IEEE Conference on Multimedia Expo. (ICME 2024).
 1. **Chenwang Wu**, Defu Lian, Yong Ge, Min Zhou, Enhong Chen, Attacking Social Media via Behavior Poisoning. ACM Transactions on Knowledge Discovery from Data. (**TKDD**)
 1. **Chenwang Wu**, Defu Lian, Yong Ge, Min Zhou, Enhong Chen, Dacheng Tao, Boosting factorization machines via saliency-guided mixup. IEEE Transactions on Pattern Analysis and Machine Intelligence. (**TPAMI**)
 11. Chaoqun Su, **Chenwang Wu**, Defu Lian, GridFormer: Spatial-Temporal Transformer Network for Citywide Crowd Flow Prediction. ECAI 2023 (**ECAI2023**)
@@ -49,6 +51,7 @@ My research interests include data mining, especially on recommender System Secu
 &emsp; &emsp; **Note**: <sup>+</sup> indicates these authors contributed equally to this work.
 
 # 🎖 Honors and Awards
+- *2024.08* Outstanding Reviewer of KDD
 - *2024.06* CAS President Award
 - *2024.04* Outstanding Postgraduate of Anhui Province
 - *2024.04* Outstanding Postgraduate of USTC
@@ -76,10 +79,10 @@ My research interests include data mining, especially on recommender System Secu
   - Mentor: [Xiting Wang](https://scholar.google.com.hk/citations?user=urC8meQAAAAJ)
 
 # ⏳ Professional Services
-- PC member, ICLR 2024
-- PC member, KDD 2024, 2023
+- PC member, ICLR 2025, 2024
+- PC member, KDD 2025, 2024, 2023
 - PC member, AAAI 2023
-- PC member, CIKM 2023, 2022
+- PC member, CIKM 2024, 2023, 2022
 - PC member, SDM, 2023
 - PC member, ECML-PKDD 2023
 - PC member, WWW 2022

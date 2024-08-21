@@ -27,7 +27,7 @@ My research interests include data mining, especially on recommender System Secu
 
 # 📝 Publications 
 1. Jin Chen, Zheng Liu, Xu Huang, **Chenwang Wu**, Qi Liu, Gangwei Jiang, Yuanhao Pu, Yuxuan Lei, Xiaolong Chen, Xingmei Wang, Defu Lian, Enhong Chen. When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities. World Wide Web. (**WWWJ**)
-2. Kaiyu Jin, **Chenwang Wu**, Defu Lian. Out-of-Distribution Generalization via Style and Spuriousness Eliminating. IEEE Conference on Multimedia Expo. (ICME 2024).
+2. Kaiyu Jin, **Chenwang Wu**, Defu Lian. Out-of-Distribution Generalization via Style and Spuriousness Eliminating. IEEE Conference on Multimedia Expo. (**ICME 2024**)
 1. **Chenwang Wu**, Defu Lian, Yong Ge, Min Zhou, Enhong Chen, Attacking Social Media via Behavior Poisoning. ACM Transactions on Knowledge Discovery from Data. (**TKDD**)
 1. **Chenwang Wu**, Defu Lian, Yong Ge, Min Zhou, Enhong Chen, Dacheng Tao, Boosting factorization machines via saliency-guided mixup. IEEE Transactions on Pattern Analysis and Machine Intelligence. (**TPAMI**)
 11. Chaoqun Su, **Chenwang Wu**, Defu Lian, GridFormer: Spatial-Temporal Transformer Network for Citywide Crowd Flow Prediction. ECAI 2023 (**ECAI2023**)

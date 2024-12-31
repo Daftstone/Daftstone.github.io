@@ -87,7 +87,9 @@ My research interests include data mining, especially on recommender System Secu
 - PC member, ECML-PKDD 2023
 - PC member, WWW 2022
 - Reviewer of IEEE Transactions on Knowledge and Data Engineering
+- Reviewer of IEEE Transactions on Neural Networks and Learning Systems
 - Reviewer of ACM Transactions on Information Systems
+- Reviewer of ACM Transactions on Knowledge Discovery from Data
 - Reviewer of World Wide Web Journal
 - Reviewer of Journal of Computer Research and Development
 - Reviewer of Journal of Data Science and Analytics

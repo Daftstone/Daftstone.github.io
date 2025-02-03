@@ -68,7 +68,7 @@ My research interests include data mining, especially on recommender System Secu
 
 # 📖 Educations
 
-- *2020.09 - 2024.06 (now)*, Ph.D. student, School of Data Science, University of Science and Technology of China. Advised by Prof. Defu Lian.
+- *2020.09 - 2024.06*, Ph.D. student, School of Data Science, University of Science and Technology of China. Advised by Prof. Defu Lian.
 - *2018.09 - 2020.06*, Master, School of Computer Science and Technology, University of Science and Technology of China. Advised by Prof. Wenjian Luo.
 - *2014.09 - 2018.06*, Bachelor, College of Mathematics and Computer Science, Fuzhou University.
 

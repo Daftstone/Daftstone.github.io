@@ -19,7 +19,7 @@ redirect_from:
 
 I’m a postdoc at Hong Kong Baptist University, supervised by Dr. [Yiu-ming Cheung](https://www.comp.hkbu.edu.hk/~ymc/) and Dr. [Bo Han](https://bhanml.github.io/index.html). I got my Ph.D. degree advised by Dr. [Defu Lian](https://faculty.ustc.edu.cn/liandefu), at the School of Data Science, University of Science and Technology of China in 2024. I got my B.S. degree from the Fuzhou University in 2018. 
 
-My research interests include data mining, especially on recommender System Security.
+My research interests include trustworthy machine learning and data mining.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

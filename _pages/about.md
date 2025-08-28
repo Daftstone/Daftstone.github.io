@@ -83,12 +83,13 @@ My research interests include trustworthy machine learning and data mining.
 - PC member, ICML 2025, 2024
 - PC member, ICLR 2025, 2024
 - PC member, NeurIPS 2025, 2024
-- PC member, KDD 2025, 2024, 2023
-- PC member, AAAI 2023
+- PC member, KDD 2026, 2025, 2024, 2023
+- PC member, AAAI 2026, 2023
 - PC member, CIKM 2024, 2023, 2022
 - PC member, SDM, 2023
 - PC member, ECML-PKDD 2023
 - PC member, WWW 2022
+- Reviewer of IEEE Transactions on Pattern Analysis and Machine Intelligence
 - Reviewer of IEEE Transactions on Knowledge and Data Engineering
 - Reviewer of IEEE Transactions on Neural Networks and Learning Systems
 - Reviewer of ACM Transactions on Information Systems

@@ -28,6 +28,7 @@ My research interests include trustworthy machine learning and data mining.
 # 📝 Publications 
 1. **Chenwang Wu**, Yiu-ming Cheung, Bo Han, Defu Lian, Advancing Machine-Generated Text Detection from an Easy to Hard Supervision Perspective. Advances in Neural Information Processing Systems 2025. (**NeurIPS2025**)
 1. Ruimeng Li, Yuanhao Pu, Zhaoyi Li, **Chenwang Wu**, Hong Xie, and Defu Lian. Invariant representation learning via decoupling style and spurious features. **Machine Learning**.
+2. Leyan Deng, **Chenwang Wu**, Defu Lian, Enhong Chen, Learning from highly sparse spatio-temporal data. Advances in Neural Information Processing Systems 2024. (**NeurIPS2024**)
 1. Jin Chen, Zheng Liu, Xu Huang, **Chenwang Wu**, Qi Liu, Gangwei Jiang, Yuanhao Pu, Yuxuan Lei, Xiaolong Chen, Xingmei Wang, Defu Lian, Enhong Chen. When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities. World Wide Web. (**WWWJ**)
 2. Kaiyu Jin, **Chenwang Wu**, Defu Lian. Out-of-Distribution Generalization via Style and Spuriousness Eliminating. IEEE Conference on Multimedia Expo. (**ICME 2024**)
 1. **Chenwang Wu**, Defu Lian, Yong Ge, Min Zhou, Enhong Chen, Attacking Social Media via Behavior Poisoning. ACM Transactions on Knowledge Discovery from Data. (**TKDD**)

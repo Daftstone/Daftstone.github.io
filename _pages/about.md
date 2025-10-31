@@ -83,7 +83,7 @@ My research interests include trustworthy machine learning and data mining.
 
 # ⏳ Professional Services
 - PC member, ICML 2025, 2024
-- PC member, ICLR 2025, 2024
+- PC member, ICLR 2026, 2025, 2024
 - PC member, NeurIPS 2025, 2024
 - PC member, KDD 2026, 2025, 2024, 2023
 - PC member, AAAI 2026, 2023

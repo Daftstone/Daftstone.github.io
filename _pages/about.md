@@ -55,6 +55,7 @@ My research interests include trustworthy machine learning and data mining.
 &emsp; &emsp; **Note**: <sup>+</sup> indicates these authors contributed equally to this work.
 
 # 🎖 Honors and Awards
+- *2026.02* Outstanding Senior Program Committee Service Award of AAAI
 - *2024.08* Outstanding Reviewer of KDD
 - *2024.06* CAS President Award
 - *2024.04* Outstanding Postgraduate of Anhui Province

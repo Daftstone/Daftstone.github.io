@@ -85,9 +85,10 @@ My research interests include trustworthy machine learning and data mining.
   - Mentor: [Xiting Wang](https://scholar.google.com.hk/citations?user=urC8meQAAAAJ)
 
 # ⏳ Professional Services
+- Area Chair, ICLR 2027
 - PC member, ICML 2026, 2025, 2024
 - PC member, ICLR 2026, 2025, 2024
-- PC member, NeurIPS 2025, 2024
+- PC member, NeurIPS 2026, 2025, 2024
 - PC member, KDD 2026, 2025, 2024, 2023
 - PC member, AAAI 2027, 2026, 2023
 - PC member, ICDM 2026

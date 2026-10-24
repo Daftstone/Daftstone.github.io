@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="320" viewBox="0 0 600 320" role="img" aria-label="Concept sketch: Style &amp; spuriousness">
+<rect width="600" height="320" fill="#fff"/>
+<defs><marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0L6 3 0 6" fill="none" stroke="#6892a6" stroke-width="1.5"/></marker></defs>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<text x="300" y="40" font-size="21" font-weight="600" fill="#183c50">Style &amp; spuriousness</text>
+<path d="M144 156H209M390 156h65" fill="none" stroke="#6892a6" stroke-width="2" marker-end="url(#a)"/>
+<rect x="216" y="103" width="168" height="106" rx="10" fill="#eef5f8" stroke="#94b5c6" stroke-width="1.5"/>
+<text x="300" y="147" font-size="17" fill="#183c50">Style / spurious</text><text x="300" y="175" font-size="17" fill="#183c50">feature removal</text>
+<rect x="79" y="121" width="16" height="16" rx="2" fill="#dce9ef"/><rect x="99" y="121" width="16" height="16" rx="2" fill="#84b6a6"/><rect x="119" y="121" width="16" height="16" rx="2" fill="#c5dae4"/><rect x="79" y="141" width="16" height="16" rx="2" fill="#84b6a6"/><rect x="99" y="141" width="16" height="16" rx="2" fill="#c5dae4"/><rect x="119" y="141" width="16" height="16" rx="2" fill="#dce9ef"/><rect x="79" y="161" width="16" height="16" rx="2" fill="#c5dae4"/><rect x="99" y="161" width="16" height="16" rx="2" fill="#dce9ef"/><rect x="119" y="161" width="16" height="16" rx="2" fill="#84b6a6"/><rect x="469" y="121" width="64" height="24" rx="5" fill="#e5f0eb" stroke="#8fb6a7"/><rect x="469" y="152" width="64" height="24" rx="5" fill="#e9eef2" stroke="#b7cad3"/>
+<text x="106" y="243" font-size="15" fill="#506671">Training domains</text><text x="498" y="243" font-size="15" fill="#506671">OoD generalization</text>
+<text x="300" y="292" font-size="12" letter-spacing="2" fill="#687b86">CONCEPT SKETCH</text>
+</g></svg>

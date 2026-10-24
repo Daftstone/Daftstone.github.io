@@ -6,8 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Welcome to Chenwang Wu's Homepage"
-description              : "May everything you work for have a romantic outcome in the future"
+title                    : "Chenwang Wu | Trustworthy Machine Learning"
+description              : "Chenwang Wu, postdoctoral researcher at Hong Kong Baptist University. Research in trustworthy machine learning, machine-generated text detection, and data mining."
+url                      : "https://daftstone.github.io"
+baseurl                  : ""
 repository               : "Daftstone/Daftstone.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -65,6 +67,8 @@ include:
   - _pages
   - files
 exclude:
+  - DESIGN-NOTES.md
+  - PUBLICATION-SOURCES.md
   - docs
   - google_scholar_crawler
   - "*.sublime-project"

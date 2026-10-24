@@ -1,0 +1,457 @@
+[
+  {
+    "id": "p01",
+    "title": "Beyond Raw Detection Scores: Markov-Informed Calibration for Boosting Machine-Generated Text Detection",
+    "authors": "Chenwang Wu, Yiu-ming Cheung, Shuhai Zhang, Bo Han, Defu Lian",
+    "venue": "ICLR 2026",
+    "topics": [
+      "detection",
+      "trustworthy"
+    ],
+    "code": "https://github.com/Daftstone/MRF_Calibration",
+    "paper": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/50b4eb974283cf1a7a60980ed06cf1be-Abstract-Conference.html",
+    "preprint": "https://arxiv.org/abs/2602.08031",
+    "pdf": "https://proceedings.iclr.cc/paper_files/paper/2026/file/50b4eb974283cf1a7a60980ed06cf1be-Paper-Conference.pdf",
+    "thumbnail": "images/publications/p01.webp",
+    "figure_type": "paper",
+    "figure_caption": "Token-score distributions before and after calibration",
+    "figure_source": "https://proceedings.iclr.cc/paper_files/paper/2026/file/50b4eb974283cf1a7a60980ed06cf1be-Paper-Conference.pdf#page=2",
+    "figure_number": "Figure 1",
+    "figure_page": 2
+  },
+  {
+    "id": "p02",
+    "title": "Advancing Machine-Generated Text Detection from an Easy to Hard Supervision Perspective",
+    "authors": "Chenwang Wu, Yiu-ming Cheung, Bo Han, Defu Lian",
+    "venue": "NeurIPS 2025",
+    "topics": [
+      "detection",
+      "trustworthy"
+    ],
+    "code": "https://github.com/Daftstone/Easy2Hard",
+    "doi": "10.52202/085713-5023",
+    "paper": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/dce5d66bf88b7b7d0f11fbd9c9f16620-Abstract-Conference.html",
+    "metadata_source": "https://api.crossref.org/works/10.52202/085713-5023",
+    "preprint": "https://arxiv.org/abs/2511.00988",
+    "pdf": "https://proceedings.neurips.cc/paper_files/paper/2025/file/dce5d66bf88b7b7d0f11fbd9c9f16620-Paper-Conference.pdf",
+    "thumbnail": "images/publications/p02.webp",
+    "figure_type": "paper",
+    "figure_caption": "Easy-to-hard supervision framework",
+    "figure_source": "https://proceedings.neurips.cc/paper_files/paper/2025/file/dce5d66bf88b7b7d0f11fbd9c9f16620-Paper-Conference.pdf#page=4",
+    "figure_number": "Figure 3",
+    "figure_page": 4
+  },
+  {
+    "id": "p03",
+    "title": "Invariant representation learning via decoupling style and spurious features",
+    "authors": "Ruimeng Li, Yuanhao Pu, Zhaoyi Li, Chenwang Wu, Hong Xie, and Defu Lian",
+    "venue": "Machine Learning",
+    "topics": [
+      "trustworthy"
+    ],
+    "doi": "10.1007/s10994-024-06730-9",
+    "paper": "https://doi.org/10.1007/s10994-024-06730-9",
+    "metadata_source": "https://api.crossref.org/works/10.1007/s10994-024-06730-9",
+    "preprint": "https://arxiv.org/abs/2312.06226",
+    "pdf": "https://arxiv.org/pdf/2312.06226",
+    "thumbnail": "images/publications/p03.webp",
+    "figure_type": "paper",
+    "figure_caption": "IRSS framework for decoupling style and spurious features",
+    "figure_source": "https://arxiv.org/pdf/2312.06226#page=4",
+    "figure_number": "Figure 4",
+    "figure_page": 4
+  },
+  {
+    "id": "p04",
+    "title": "Learning from highly sparse spatio-temporal data",
+    "authors": "Leyan Deng, Defu Lian, Chenwang Wu, Enhong Chen",
+    "venue": "NeurIPS 2024",
+    "topics": [
+      "mining"
+    ],
+    "doi": "10.52202/079017-2982",
+    "paper": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/aaa9215b743f3df666d73cde9dc357c3-Abstract-Conference.html",
+    "metadata_source": "https://api.crossref.org/works/10.52202/079017-2982",
+    "thumbnail": "images/publications/p04.webp",
+    "figure_type": "paper",
+    "figure_caption": "One-step propagation and confidence-based refinement",
+    "figure_source": "https://proceedings.neurips.cc/paper_files/paper/2024/file/aaa9215b743f3df666d73cde9dc357c3-Paper-Conference.pdf#page=5",
+    "figure_number": "Figure 1",
+    "figure_page": 5,
+    "pdf": "https://proceedings.neurips.cc/paper_files/paper/2024/file/aaa9215b743f3df666d73cde9dc357c3-Paper-Conference.pdf"
+  },
+  {
+    "id": "p05",
+    "title": "When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities",
+    "authors": "Jin Chen, Zheng Liu, Xu Huang, Chenwang Wu, Qi Liu, Gangwei Jiang, Yuanhao Pu, Yuxuan Lei, Xiaolong Chen, Xingmei Wang, Defu Lian, Enhong Chen",
+    "venue": "World Wide Web",
+    "topics": [
+      "recommendation"
+    ],
+    "doi": "10.1007/s11280-024-01276-1",
+    "paper": "https://doi.org/10.1007/s11280-024-01276-1",
+    "metadata_source": "https://api.crossref.org/works/10.1007/s11280-024-01276-1",
+    "preprint": "https://arxiv.org/abs/2307.16376",
+    "pdf": "https://arxiv.org/pdf/2307.16376",
+    "thumbnail": "images/publications/p05.webp",
+    "figure_type": "paper",
+    "figure_caption": "Overview of LLM roles in personalization",
+    "figure_source": "https://arxiv.org/pdf/2307.16376#page=5",
+    "figure_number": "Fig. 1. The Overview of LLM for Personalization",
+    "figure_page": 5
+  },
+  {
+    "id": "p06",
+    "title": "Out-of-Distribution Generalization via Style and Spuriousness Eliminating",
+    "authors": "Kaiyu Jin, Chenwang Wu, Defu Lian",
+    "venue": "ICME 2024",
+    "topics": [
+      "trustworthy"
+    ],
+    "doi": "10.1109/icme57554.2024.10687911",
+    "paper": "https://doi.org/10.1109/icme57554.2024.10687911",
+    "metadata_source": "https://api.crossref.org/works/10.1109/icme57554.2024.10687911",
+    "thumbnail": "images/publications/p06.svg",
+    "figure_type": "concept",
+    "figure_caption": "Style & spuriousness: a high-level concept sketch based on the paper title or abstract; not an original paper figure.",
+    "figure_source": "https://doi.org/10.1109/icme57554.2024.10687911"
+  },
+  {
+    "id": "p07",
+    "title": "Attacking Social Media via Behavior Poisoning",
+    "authors": "Chenwang Wu, Defu Lian, Yong Ge, Min Zhou, Enhong Chen",
+    "venue": "ACM TKDD",
+    "topics": [
+      "trustworthy",
+      "mining"
+    ],
+    "doi": "10.1145/3654673",
+    "paper": "https://doi.org/10.1145/3654673",
+    "metadata_source": "https://api.crossref.org/works/10.1145/3654673",
+    "thumbnail": "images/publications/p07.svg",
+    "figure_type": "concept",
+    "figure_caption": "Behavior poisoning: a high-level concept sketch based on the paper title or abstract; not an original paper figure.",
+    "figure_source": "https://doi.org/10.1145/3654673"
+  },
+  {
+    "id": "p08",
+    "title": "Boosting factorization machines via saliency-guided mixup",
+    "authors": "Chenwang Wu, Defu Lian, Yong Ge, Min Zhou, Enhong Chen, Dacheng Tao",
+    "venue": "IEEE TPAMI",
+    "topics": [
+      "recommendation"
+    ],
+    "doi": "10.1109/tpami.2024.3354910",
+    "paper": "https://doi.org/10.1109/tpami.2024.3354910",
+    "metadata_source": "https://api.crossref.org/works/10.1109/tpami.2024.3354910",
+    "preprint": "https://arxiv.org/abs/2206.08661",
+    "pdf": "https://arxiv.org/pdf/2206.08661",
+    "thumbnail": "images/publications/p08.webp",
+    "figure_type": "paper",
+    "figure_caption": "Overview of MixFM and saliency-guided mixup",
+    "figure_source": "https://arxiv.org/pdf/2206.08661#page=3",
+    "figure_number": "Fig. 1",
+    "figure_page": 3
+  },
+  {
+    "id": "p09",
+    "title": "GridFormer: Spatial-Temporal Transformer Network for Citywide Crowd Flow Prediction",
+    "authors": "Chaoqun Su, Chenwang Wu, Defu Lian",
+    "venue": "ECAI 2023",
+    "topics": [
+      "mining"
+    ],
+    "doi": "10.3233/faia230519",
+    "paper": "https://doi.org/10.3233/faia230519",
+    "metadata_source": "https://api.crossref.org/works/10.3233/faia230519",
+    "thumbnail": "images/publications/p09.svg",
+    "figure_type": "concept",
+    "figure_caption": "GridFormer: a high-level concept sketch based on the paper title or abstract; not an original paper figure.",
+    "figure_source": "https://doi.org/10.3233/faia230519"
+  },
+  {
+    "id": "p10",
+    "title": "A Causality Inspired Framework for Model Interpretation",
+    "authors": "Chenwang Wu, Xiting Wang, Defu Lian, Xing Xie, Enhong Chen",
+    "venue": "KDD 2023",
+    "topics": [
+      "trustworthy"
+    ],
+    "doi": "10.1145/3580305.3599240",
+    "paper": "https://doi.org/10.1145/3580305.3599240",
+    "metadata_source": "https://api.crossref.org/works/10.1145/3580305.3599240",
+    "pdf": "https://www.microsoft.com/en-us/research/wp-content/uploads/2023/04/Causality_Inspired_Explanations_for_Understanding_Black_box_Models.pdf",
+    "thumbnail": "images/publications/p10.webp",
+    "figure_type": "paper",
+    "figure_caption": "Causality-inspired model interpretation framework",
+    "figure_source": "https://www.microsoft.com/en-us/research/wp-content/uploads/2023/04/Causality_Inspired_Explanations_for_Understanding_Black_box_Models.pdf#page=5",
+    "figure_number": "Figure 2",
+    "figure_page": 5
+  },
+  {
+    "id": "p11",
+    "title": "Co-visitation Meets Token Alignment for Next Product Title Generation",
+    "authors": "Chenwang Wu, Leyan Deng, Zhihao Zhu, Defu Lian",
+    "venue": "Amazon KDD Cup 2023 Workshop",
+    "topics": [
+      "recommendation"
+    ],
+    "paper": "https://openreview.net/forum?id=umFKIJkgeS",
+    "thumbnail": "images/publications/p11.svg",
+    "figure_type": "concept",
+    "figure_caption": "Next product title: a high-level concept sketch based on the paper title or abstract; not an original paper figure.",
+    "figure_source": "https://openreview.net/forum?id=umFKIJkgeS"
+  },
+  {
+    "id": "p12",
+    "title": "Influence-Driven Data Poisoning for Robust Recommender Systems",
+    "authors": "Chenwang Wu, Defu Lian, Yong Ge, Zhihao Zhu, Enhong Chen",
+    "venue": "IEEE TPAMI",
+    "topics": [
+      "trustworthy",
+      "recommendation"
+    ],
+    "doi": "10.1109/tpami.2023.3274759",
+    "paper": "https://doi.org/10.1109/tpami.2023.3274759",
+    "metadata_source": "https://api.crossref.org/works/10.1109/tpami.2023.3274759",
+    "thumbnail": "images/publications/p12.svg",
+    "figure_type": "concept",
+    "figure_caption": "Influence-driven poisoning: a high-level concept sketch based on the paper title or abstract; not an original paper figure.",
+    "figure_source": "https://doi.org/10.1109/tpami.2023.3274759"
+  },
+  {
+    "id": "p13",
+    "title": "Securing Recommender System via Cooperative Training",
+    "authors": "Qingyang Wang*, Chenwang Wu*, Defu Lian, Enhong Chen",
+    "venue": "World Wide Web",
+    "topics": [
+      "trustworthy",
+      "recommendation"
+    ],
+    "doi": "10.1007/s11280-023-01214-7",
+    "paper": "https://doi.org/10.1007/s11280-023-01214-7",
+    "metadata_source": "https://api.crossref.org/works/10.1007/s11280-023-01214-7",
+    "preprint": "https://arxiv.org/abs/2401.12700",
+    "pdf": "https://arxiv.org/pdf/2401.12700",
+    "thumbnail": "images/publications/p13.webp",
+    "figure_type": "paper",
+    "figure_caption": "Triple cooperative defense framework",
+    "figure_source": "https://arxiv.org/pdf/2401.12700#page=8",
+    "figure_number": "Figure 1",
+    "figure_page": 8
+  },
+  {
+    "id": "p14",
+    "title": "Membership Inference Attacks Against Sequential Recommender Systems",
+    "authors": "Zhihao Zhu, Chenwang Wu, Rui Fan, Defu Lian, Enhong Chen",
+    "venue": "WWW 2023",
+    "topics": [
+      "trustworthy",
+      "recommendation"
+    ],
+    "doi": "10.1145/3543507.3583447",
+    "paper": "https://doi.org/10.1145/3543507.3583447",
+    "metadata_source": "https://api.crossref.org/works/10.1145/3543507.3583447",
+    "thumbnail": "images/publications/p14.svg",
+    "figure_type": "concept",
+    "figure_caption": "Membership inference: a high-level concept sketch based on the paper title or abstract; not an original paper figure.",
+    "figure_source": "https://doi.org/10.1145/3543507.3583447"
+  },
+  {
+    "id": "p15",
+    "title": "Towards robust recommender systems via triple cooperative defense",
+    "authors": "Qingyang Wang, Defu Lian, Chenwang Wu, Enhong Chen",
+    "venue": "WISE 2022",
+    "topics": [
+      "trustworthy",
+      "recommendation"
+    ],
+    "award": "Best paper",
+    "doi": "10.1007/978-3-031-20891-1_40",
+    "paper": "https://doi.org/10.1007/978-3-031-20891-1_40",
+    "metadata_source": "https://api.crossref.org/works/10.1007/978-3-031-20891-1_40",
+    "preprint": "https://arxiv.org/abs/2210.13762",
+    "pdf": "https://arxiv.org/pdf/2210.13762",
+    "thumbnail": "images/publications/p15.webp",
+    "figure_type": "paper",
+    "figure_caption": "Cooperative training of three recommendation models",
+    "figure_source": "https://arxiv.org/pdf/2210.13762#page=5",
+    "figure_number": "Fig. 1",
+    "figure_page": 5
+  },
+  {
+    "id": "p16",
+    "title": "Resisting Graph Adversarial Attack via Cooperative Homophilous Augmentation",
+    "authors": "Zhihao Zhu, Chenwang Wu, Min Zhou, Hao Liao, Defu Lian, Enhong Chen",
+    "venue": "ECML-PKDD 2022",
+    "topics": [
+      "trustworthy"
+    ],
+    "doi": "10.1007/978-3-031-26409-2_16",
+    "paper": "https://doi.org/10.1007/978-3-031-26409-2_16",
+    "metadata_source": "https://api.crossref.org/works/10.1007/978-3-031-26409-2_16",
+    "preprint": "https://arxiv.org/abs/2211.08068",
+    "pdf": "https://arxiv.org/pdf/2211.08068",
+    "thumbnail": "images/publications/p16.webp",
+    "figure_type": "paper",
+    "figure_caption": "CHAGNN cooperative homophilous augmentation flowchart",
+    "figure_source": "https://arxiv.org/pdf/2211.08068#page=7",
+    "figure_number": "Fig. 2",
+    "figure_page": 7
+  },
+  {
+    "id": "p17",
+    "title": "Traffic4cast at NeurIPS 2022–Predict dynamics along graph edges from sparse node data: Whole city traffic and ETA from stationary vehicle detectors",
+    "authors": "Moritz Neun, Christian Eichenberger, Henry Martin, Markus Spanring, Rahul Siripurapu, Daniel Springer, Leyan Deng, Chenwang Wu, Defu Lian, Min Zhou, et al",
+    "venue": "NeurIPS 2022 Competition Track",
+    "topics": [
+      "mining"
+    ],
+    "paper": "https://proceedings.mlr.press/v220/neun23a.html",
+    "preprint": "https://arxiv.org/abs/2303.07758",
+    "pdf": "https://proceedings.mlr.press/v220/neun23a/neun23a.pdf",
+    "thumbnail": "images/publications/p17.webp",
+    "figure_type": "paper",
+    "figure_caption": "Traffic dynamics prediction from sparse observations",
+    "figure_source": "https://proceedings.mlr.press/v220/neun23a/neun23a.pdf#page=3",
+    "figure_number": "Figure 1",
+    "figure_page": 3
+  },
+  {
+    "id": "p18",
+    "title": "Detecting adversarial examples by positive and negative representations",
+    "authors": "Wenjian Luo, Chenwang Wu, Li Ni, Nan Zhou, Zhenya Zhang",
+    "venue": "Applied Soft Computing",
+    "topics": [
+      "trustworthy"
+    ],
+    "code": "https://github.com/Daftstone/PNDetector",
+    "doi": "10.1016/j.asoc.2021.108383",
+    "paper": "https://doi.org/10.1016/j.asoc.2021.108383",
+    "metadata_source": "https://api.crossref.org/works/10.1016/j.asoc.2021.108383",
+    "thumbnail": "images/publications/p18.svg",
+    "figure_type": "concept",
+    "figure_caption": "Positive / negative views: a high-level concept sketch based on the paper title or abstract; not an original paper figure.",
+    "figure_source": "https://doi.org/10.1016/j.asoc.2021.108383"
+  },
+  {
+    "id": "p19",
+    "title": "Markov-driven graph convolutional networks for social spammer detection",
+    "authors": "Leyan Deng, Chenwang Wu, Defu Lian, Yongji Wu, Enhong Chen",
+    "venue": "IEEE TKDE",
+    "topics": [
+      "mining"
+    ],
+    "doi": "10.1109/tkde.2022.3150669",
+    "paper": "https://doi.org/10.1109/tkde.2022.3150669",
+    "metadata_source": "https://api.crossref.org/works/10.1109/tkde.2022.3150669",
+    "thumbnail": "images/publications/p19.svg",
+    "figure_type": "concept",
+    "figure_caption": "Social spammer detection: a high-level concept sketch based on the paper title or abstract; not an original paper figure.",
+    "figure_source": "https://doi.org/10.1109/tkde.2022.3150669"
+  },
+  {
+    "id": "p20",
+    "title": "Graph Convolution Network based Recommender Systems: Learning Guarantee and Item Mixture Powered Strategy",
+    "authors": "Leyan Deng, Defu Lian, Chenwang Wu, Enhong Chen",
+    "venue": "NeurIPS 2022",
+    "topics": [
+      "recommendation"
+    ],
+    "doi": "10.52202/068431-0282",
+    "paper": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/18fd48d9cbbf9a20e434c9d3db6973c5-Abstract-Conference.html",
+    "metadata_source": "https://api.crossref.org/works/10.52202/068431-0282",
+    "pdf": "https://proceedings.neurips.cc/paper_files/paper/2022/file/18fd48d9cbbf9a20e434c9d3db6973c5-Paper-Conference.pdf",
+    "thumbnail": "images/publications/p20.webp",
+    "figure_type": "paper",
+    "figure_caption": "Generalization behavior across graph network configurations",
+    "figure_source": "https://proceedings.neurips.cc/paper_files/paper/2022/file/18fd48d9cbbf9a20e434c9d3db6973c5-Paper-Conference.pdf#page=8",
+    "figure_number": "Figure 1",
+    "figure_page": 8
+  },
+  {
+    "id": "p21",
+    "title": "Triple adversarial learning for influence based poisoning attack in recommender systems",
+    "authors": "Chenwang Wu, Defu Lian, Yong Ge, Zhihao Zhu, Enhong Chen",
+    "venue": "KDD 2021",
+    "topics": [
+      "trustworthy",
+      "recommendation"
+    ],
+    "code": "https://github.com/Daftstone/TrialAttack",
+    "doi": "10.1145/3447548.3467335",
+    "paper": "https://doi.org/10.1145/3447548.3467335",
+    "metadata_source": "https://api.crossref.org/works/10.1145/3447548.3467335",
+    "thumbnail": "images/publications/p21.svg",
+    "figure_type": "concept",
+    "figure_caption": "Triple adversarial learning: a high-level concept sketch based on the paper title or abstract; not an original paper figure.",
+    "figure_source": "https://doi.org/10.1145/3447548.3467335"
+  },
+  {
+    "id": "p22",
+    "title": "Fight fire with fire: towards robust recommender systems via adversarial poisoning training",
+    "authors": "Chenwang Wu, Defu Lian, Yong Ge, Zhihao Zhu, Enhong Chen, Senchao Yuan",
+    "venue": "SIGIR 2021",
+    "topics": [
+      "trustworthy",
+      "recommendation"
+    ],
+    "code": "https://github.com/Daftstone/APT",
+    "doi": "10.1145/3404835.3462914",
+    "paper": "https://doi.org/10.1145/3404835.3462914",
+    "metadata_source": "https://api.crossref.org/works/10.1145/3404835.3462914",
+    "thumbnail": "images/publications/p22.svg",
+    "figure_type": "concept",
+    "figure_caption": "Adversarial poisoning training: a high-level concept sketch based on the paper title or abstract; not an original paper figure.",
+    "figure_source": "https://doi.org/10.1145/3404835.3462914"
+  },
+  {
+    "id": "p23",
+    "title": "Genetic algorithm with multiple fitness functions for generating adversarial examples",
+    "authors": "Chenwang Wu, Wenjian Luo, Nan Zhou, Peilan Xu, Tao Zhu",
+    "venue": "CEC 2021",
+    "topics": [
+      "trustworthy"
+    ],
+    "code": "https://github.com/Daftstone/GA-based-Attack",
+    "doi": "10.1109/cec45853.2021.9504790",
+    "paper": "https://doi.org/10.1109/cec45853.2021.9504790",
+    "metadata_source": "https://api.crossref.org/works/10.1109/cec45853.2021.9504790",
+    "thumbnail": "images/publications/p23.svg",
+    "figure_type": "concept",
+    "figure_caption": "Multiple-fitness genetic attack: a high-level concept sketch based on the paper title or abstract; not an original paper figure.",
+    "figure_source": "https://doi.org/10.1109/cec45853.2021.9504790"
+  },
+  {
+    "id": "p24",
+    "title": "Enhancing the privacy of negative surveys using negative combined categories",
+    "authors": "Hao Jiang, Wenjian Luo, Binyao Duan, Chenwang Wu",
+    "venue": "Applied Soft Computing",
+    "topics": [
+      "trustworthy"
+    ],
+    "doi": "10.1016/j.asoc.2020.106578",
+    "paper": "https://doi.org/10.1016/j.asoc.2020.106578",
+    "metadata_source": "https://api.crossref.org/works/10.1016/j.asoc.2020.106578",
+    "thumbnail": "images/publications/p24.svg",
+    "figure_type": "concept",
+    "figure_caption": "Negative combined categories: a high-level concept sketch based on the paper title or abstract; not an original paper figure.",
+    "figure_source": "https://doi.org/10.1016/j.asoc.2020.106578"
+  },
+  {
+    "id": "p25",
+    "title": "A crop-based multi-branch network for matching cost computation",
+    "authors": "Yu Chen, Youshen Xia, Chenwang Wu",
+    "venue": "CISP-BMEI 2018",
+    "topics": [
+      "mining"
+    ],
+    "doi": "10.1109/cisp-bmei.2018.8633267",
+    "paper": "https://doi.org/10.1109/cisp-bmei.2018.8633267",
+    "metadata_source": "https://api.crossref.org/works/10.1109/cisp-bmei.2018.8633267",
+    "thumbnail": "images/publications/p25.svg",
+    "figure_type": "concept",
+    "figure_caption": "Matching cost computation: a high-level concept sketch based on the paper title or abstract; not an original paper figure.",
+    "figure_source": "https://doi.org/10.1109/cisp-bmei.2018.8633267"
+  }
+]

@@ -1,4 +1,10 @@
 
+## Chenwang Wu — academic homepage
+
+The homepage has a standalone responsive academic layout. See [DESIGN-NOTES.md](DESIGN-NOTES.md) for the design, content provenance, maintenance paths, and preview instructions. Publications are maintained in `_data/publications.json`.
+
+The original AcadHomepage documentation and attribution follow.
+
 <h1 align="center">
 AcadHomepage
 </h1>

@@ -1,0 +1,105 @@
+<section id="about" class="intro" aria-labelledby="intro-name">
+  <div class="intro-copy">
+    <p class="eyebrow">Trustworthy machine learning · Data mining</p>
+    <h1 id="intro-name">Chenwang Wu</h1>
+    <p class="position">Postdoctoral Researcher <span>/</span> Hong Kong Baptist University</p>
+    <p class="intro-lead">My research focuses on trustworthy machine learning and data mining, with work on machine-generated text detection, robust recommender systems, and model interpretation.</p>
+    <p class="bio">I am a postdoc at <a href="https://www.comp.hkbu.edu.hk/">Hong Kong Baptist University</a>, working with <a href="https://www.comp.hkbu.edu.hk/~ymc/">Yiu-ming Cheung</a> and <a href="https://bhanml.github.io/index.html">Bo Han</a>. I received my Ph.D. from the School of Data Science at the University of Science and Technology of China in 2024, advised by <a href="https://faculty.ustc.edu.cn/liandefu">Defu Lian</a>, and my B.S. from Fuzhou University in 2018.</p>
+    <div class="profile-links" aria-label="Contact and research profiles">
+      <a class="contact-link" href="mailto:{{ site.author.email }}">Email ↗</a>
+      <a href="{{ site.author.googlescholar }}">Google Scholar ↗</a>
+      <a href="https://github.com/{{ site.author.github }}">GitHub ↗</a>
+    </div>
+  </div>
+  <figure class="portrait"><img src="{{ site.author.avatar | relative_url }}" alt="Portrait of Chenwang Wu" width="144" height="180" fetchpriority="high"><figcaption>⌖ Hong Kong</figcaption></figure>
+</section>
+
+<section id="research" aria-labelledby="research-title">
+  <div class="section-heading"><h2 id="research-title">Research interests</h2><span class="section-index" aria-hidden="true">01 / Research</span></div>
+  <div class="research-grid">
+    <a href="#publications" class="research-item" data-research-topic="detection"><span class="research-number">01</span><h3>Machine-generated<br> text detection <span aria-hidden="true">↗</span></h3><p>Detection under inexact supervision and calibration of token-level detection scores.</p></a>
+    <a href="#publications" class="research-item" data-research-topic="trustworthy"><span class="research-number">02</span><h3>Trustworthy<br> machine learning <span aria-hidden="true">↗</span></h3><p>Adversarial robustness, data poisoning, privacy, and interpretation of black-box models.</p></a>
+    <a href="#publications" class="research-item" data-research-topic="recommendation"><span class="research-number">03</span><h3>Recommender systems<br> &amp; data mining <span aria-hidden="true">↗</span></h3><p>Reliable recommendation, graph learning, and modeling sparse spatio-temporal data.</p></a>
+  </div>
+</section>
+
+<section id="publications" aria-labelledby="publications-title">
+  <div class="section-heading"><h2 id="publications-title">Publications</h2><a class="section-link" href="{{ site.author.googlescholar }}">Google Scholar ↗</a></div>
+  <p class="section-description">Recent work appears first. <strong>My name</strong> is highlighted; * denotes equal contribution.</p>
+  <p class="figure-help">Click a thumbnail to enlarge. “Paper figure” comes from the paper; “Concept sketch” is a simplified illustration.</p>
+  <div class="publication-tools" hidden>
+    <div class="filter-list" role="group" aria-label="Filter publications by research topic">
+      <button type="button" class="filter is-active" data-filter="all" aria-pressed="true">All work</button>
+      <button type="button" class="filter" data-filter="detection" aria-pressed="false">Text detection</button>
+      <button type="button" class="filter" data-filter="trustworthy" aria-pressed="false">Trustworthy ML</button>
+      <button type="button" class="filter" data-filter="recommendation" aria-pressed="false">Recommendation</button>
+      <button type="button" class="filter" data-filter="mining" aria-pressed="false">Data mining</button>
+    </div>
+    <label class="publication-search"><span class="sr-only">Search publication titles, authors, and venues</span><span aria-hidden="true">⌕</span><input id="publication-search" type="search" placeholder="Search publications…" autocomplete="off"></label>
+  </div>
+  <p class="sr-only" id="publication-count" role="status" aria-live="polite" aria-atomic="true"></p>
+  <div id="publication-list" class="publication-list">
+    {% for paper in site.data.publications %}
+    <article class="publication" data-topics="{{ paper.topics | join: ' ' }}" aria-labelledby="{{ paper.id }}">
+      <div class="publication-media">
+        {% if paper.thumbnail %}
+        <a class="publication-figure" href="{{ paper.thumbnail | relative_url }}" data-figure-title="{{ paper.title | escape }}" data-figure-caption="{{ paper.figure_caption | escape }}" data-figure-source="{{ paper.figure_source | escape }}" data-figure-type="{{ paper.figure_type }}" aria-label="Enlarge {% if paper.figure_type == 'concept' %}concept sketch{% else %}paper figure{% endif %}: {{ paper.title | escape }}">
+          <img src="{{ paper.thumbnail | relative_url }}" alt="{{ paper.figure_caption | escape }}" width="360" height="208" loading="lazy" decoding="async">
+          <span class="figure-label">{% if paper.figure_type == 'concept' %}Concept sketch{% else %}Paper figure{% endif %} <span aria-hidden="true">↗</span></span>
+        </a>
+        {% endif %}
+        <div class="publication-venue"><span>{{ paper.venue | escape }}</span>{% if paper.award %}<span class="paper-award">{{ paper.award }}</span>{% endif %}</div>
+      </div>
+      <div class="publication-content">
+        <h3 id="{{ paper.id }}">{% if paper.paper %}<a href="{{ paper.paper }}">{{ paper.title | escape }}</a>{% else %}{{ paper.title | escape }}{% endif %}</h3>
+        <p class="publication-authors">{{ paper.authors | escape | replace: 'Chenwang Wu', '<strong>Chenwang Wu</strong>' }}</p>
+        <div class="paper-links">{% if paper.paper %}<a data-paper-link href="{{ paper.paper }}">Paper ↗</a>{% endif %}{% if paper.pdf %}<a href="{{ paper.pdf }}">PDF ↗</a>{% endif %}{% if paper.code %}<a href="{{ paper.code }}">Code ↗</a>{% endif %}<a href="https://scholar.google.com/scholar?q={{ paper.title | url_encode }}">Scholar ↗</a></div>
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+  <p class="empty-state" hidden>No publications match. Try another topic or search term.</p>
+  <button class="show-publications" type="button" aria-expanded="false" aria-controls="publication-list" hidden>Show all {{ site.data.publications.size }} publications ↓</button>
+</section>
+
+<dialog class="figure-dialog" aria-labelledby="figure-dialog-title" aria-describedby="figure-dialog-caption">
+  <div class="figure-dialog-heading"><span class="eyebrow" id="figure-dialog-type">Paper figure</span><button type="button" class="figure-dialog-close" aria-label="Close figure">Close <span aria-hidden="true">×</span></button></div>
+  <h2 id="figure-dialog-title"></h2>
+  <div class="figure-dialog-image"><img alt=""></div>
+  <p id="figure-dialog-caption"></p>
+  <a class="figure-dialog-source" href="">View source ↗</a>
+</dialog>
+
+<section id="resources" aria-labelledby="resources-title">
+  <div class="section-heading"><h2 id="resources-title">Code &amp; resources</h2><span class="section-index" aria-hidden="true">Open research</span></div>
+  <div class="resource-grid">
+    <a class="resource-item" href="https://github.com/Daftstone/ai-generated-text-detection-papers"><span class="resource-type">Reading list</span><h3>AI-generated text detection ↗</h3><p>A collection of papers on detection, attribution, robustness, benchmarks, and watermarking.</p><span class="resource-path">github.com / Daftstone</span></a>
+    <a class="resource-item" href="https://github.com/Daftstone/Easy2Hard"><span class="resource-type">NeurIPS 2025 · Code</span><h3>Easy2Hard ↗</h3><p>Machine-generated text detection from an easy-to-hard supervision perspective.</p><span class="resource-path">github.com / Daftstone</span></a>
+    <a class="resource-item" href="https://github.com/Daftstone/MRF_Calibration"><span class="resource-type">ICLR 2026 · Code</span><h3>MRF Calibration ↗</h3><p>Markov random field calibration for machine-generated text detection scores.</p><span class="resource-path">github.com / Daftstone</span></a>
+  </div>
+</section>
+
+<section id="experience" aria-labelledby="experience-title">
+  <div class="section-heading"><h2 id="experience-title">Education &amp; experience</h2><span class="section-index" aria-hidden="true">02 / Background</span></div>
+  <div class="background-grid">
+    <div><h3 class="subheading">Education</h3><ol class="timeline">
+      <li><span class="timeline-date">2020.09 — 2024.06</span><h4>Ph.D.</h4><p>University of Science and Technology of China</p><p class="detail">School of Data Science · Advisor: Defu Lian</p></li>
+      <li><span class="timeline-date">2018.09 — 2020.06</span><h4>Master’s</h4><p>University of Science and Technology of China</p><p class="detail">School of Computer Science and Technology · Advisor: Wenjian Luo</p></li>
+      <li><span class="timeline-date">2014.09 — 2018.06</span><h4>Bachelor’s</h4><p>Fuzhou University</p><p class="detail">College of Mathematics and Computer Science</p></li>
+    </ol></div>
+    <div><h3 class="subheading">Research internship</h3><div class="internship"><span class="timeline-date">2022.06 — 2023.06</span><h4>Microsoft Research Asia</h4><p>Social Computing Group</p><p class="detail">Mentor: <a href="https://scholar.google.com.hk/citations?user=urC8meQAAAAJ">Xiting Wang</a></p><ul><li>Fast, reliable interpretation methods for black-box models.</li><li>Assessment of GPT’s higher-order thinking using psychological methods.</li></ul></div></div>
+  </div>
+</section>
+
+<section id="honors" aria-labelledby="honors-title">
+  <div class="section-heading"><h2 id="honors-title">Honors &amp; awards</h2><span class="section-index" aria-hidden="true">03 / Recognition</span></div>
+  <ul class="award-list">{% for award in site.data.awards limit: 6 %}<li><span class="award-date">{{ award.date }}</span><span>{{ award.text | escape }}</span></li>{% endfor %}</ul>
+  <details class="more-details"><summary>Earlier awards &amp; competition results</summary><ul class="award-list">{% for award in site.data.awards offset: 6 %}<li><span class="award-date">{{ award.date }}</span><span>{{ award.text | escape }}</span></li>{% endfor %}</ul></details>
+</section>
+
+<section id="service" aria-labelledby="service-title">
+  <div class="section-heading"><h2 id="service-title">Professional service</h2><span class="section-index" aria-hidden="true">04 / Community</span></div>
+  <div class="service-grid"><div><h3 class="subheading">Conferences</h3><ul class="service-list">{% for item in site.data.service.conferences %}<li>{{ item | escape }}</li>{% endfor %}</ul></div><div><h3 class="subheading">Journal reviewer</h3><ul class="service-list">{% for item in site.data.service.journals %}<li>{{ item | escape }}</li>{% endfor %}</ul></div></div>
+</section>
+
+<section id="contact" class="contact" aria-labelledby="contact-title"><div><p class="eyebrow">Contact</p><h2 id="contact-title">Get in touch.</h2><p>For research inquiries and academic correspondence.</p></div><a href="mailto:{{ site.author.email }}">{{ site.author.email }} ↗</a></section>

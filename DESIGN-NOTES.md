@@ -40,7 +40,7 @@
 | 外观和窄屏适配 | `assets/css/academic.css` |
 | 论文搜索、筛选及展开 | `assets/js/academic.js` |
 
-JSON 文件是 Jekyll 支持的数据文件。论文列表保持原顺序；新增论文可放在数组开头，`id` 必须唯一。`topics` 可选 `detection`、`trustworthy`、`recommendation`、`mining`，可以同时填写多个。
+JSON 文件是 Jekyll 支持的数据文件。论文列表按作者角色和发表时间排序：一作/共同一作在前，其它论文在后；每组内部从新到旧。新增论文请按此规则插入，`id` 必须唯一。`topics` 可选 `detection`、`trustworthy`、`recommendation`、`mining`，可以同时填写多个。
 
 `thumbnail` 是仓库内图像路径。`figure_type` 取 `paper`（论文实际图）或 `concept`（编辑绘制的概念图）；`figure_caption` 为图像说明，`figure_source` 为出处。将概念图换为论文原图时须同时更新类型、说明与来源，不能仅隐藏 Concept sketch 标签。
 

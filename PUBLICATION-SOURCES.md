@@ -1,11 +1,12 @@
 # Publication link and thumbnail provenance
 
-All 25 Paper links identify the actual work. DOI records were matched by normalized title and Chenwang Wu in the author list; ICLR, NeurIPS, PMLR and workshop exceptions use their official records. Paper links are landing pages, not a promise of open full text.
+All 26 Paper links identify the actual work. DOI records were matched by normalized title and Chenwang Wu in the author list; ICLR, NeurIPS, PMLR and workshop exceptions use their official records. Paper links are landing pages, not a promise of open full text.
 
-Original thumbnails are crops from the linked papers or their author preprints. Cropping removes surrounding text and whitespace; it does not alter plot data or diagram contents. Concept sketches are newly drawn SVG summaries of titles or abstracts and are explicitly labeled in the UI. They do not claim to reproduce the original framework.
+p26 is accepted at IEEE TPAMI; because no IEEE early-access DOI is available yet, its Paper/PDF links and figure source use the arXiv version. Original thumbnails are crops from the linked papers or their author preprints. Cropping removes surrounding text and whitespace; it does not alter plot data or diagram contents. Concept sketches are newly drawn SVG summaries of titles or abstracts and are explicitly labeled in the UI. They do not claim to reproduce the original framework.
 
 | ID | Work | Thumbnail | Figure source / basis | Crop bounds in PDF points |
 | --- | --- | --- | --- | --- |
+| p26 | Multi-Level Contextual Token Relation Modeling for Machine-Generated Text Detection | Original figure | https://arxiv.org/pdf/2605.16107#page=6 | (61, 56, 547, 254) |
 | p01 | Beyond Raw Detection Scores: Markov-Informed Calibration for Boosting Machine-Generated Text Detection | Original figure | https://proceedings.iclr.cc/paper_files/paper/2026/file/50b4eb974283cf1a7a60980ed06cf1be-Paper-Conference.pdf#page=2 | (266, 302, 506, 397) |
 | p02 | Advancing Machine-Generated Text Detection from an Easy to Hard Supervision Perspective | Original figure | https://proceedings.neurips.cc/paper_files/paper/2025/file/dce5d66bf88b7b7d0f11fbd9c9f16620-Paper-Conference.pdf#page=4 | (108, 71, 506, 188) |
 | p03 | Invariant representation learning via decoupling style and spurious features | Original figure | https://arxiv.org/pdf/2312.06226#page=4 | (54, 48, 558, 210) |

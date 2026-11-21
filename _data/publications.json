@@ -1,5 +1,24 @@
 [
   {
+    "id": "p26",
+    "title": "Multi-Level Contextual Token Relation Modeling for Machine-Generated Text Detection",
+    "authors": "Chenwang Wu, Yiu-ming Cheung, Bo Han, Shuhai Zhang, Defu Lian",
+    "venue": "IEEE TPAMI (accepted)",
+    "topics": [
+      "detection",
+      "trustworthy"
+    ],
+    "paper": "https://arxiv.org/abs/2605.16107",
+    "preprint": "https://arxiv.org/abs/2605.16107",
+    "pdf": "https://arxiv.org/pdf/2605.16107",
+    "thumbnail": "images/publications/p26.webp",
+    "figure_type": "paper",
+    "figure_caption": "The workflow of the multi-level contextual token relation modeling framework",
+    "figure_source": "https://arxiv.org/pdf/2605.16107#page=6",
+    "figure_number": "Figure 4",
+    "figure_page": 6
+  },
+  {
     "id": "p01",
     "title": "Beyond Raw Detection Scores: Markov-Informed Calibration for Boosting Machine-Generated Text Detection",
     "authors": "Chenwang Wu, Yiu-ming Cheung, Shuhai Zhang, Bo Han, Defu Lian",

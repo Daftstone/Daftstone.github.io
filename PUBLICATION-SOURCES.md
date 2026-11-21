@@ -1,8 +1,8 @@
 # Publication link and thumbnail provenance
 
-All 26 Paper links identify the actual work. DOI records were matched by normalized title and Chenwang Wu in the author list; ICLR, NeurIPS, PMLR and workshop exceptions use their official records. Paper links are landing pages, not a promise of open full text.
+All listed Paper links identify the actual work. DOI records were matched by normalized title and Chenwang Wu in the author list; ICLR, NeurIPS, PMLR and workshop exceptions use their official records. Paper links are landing pages, not a promise of open full text.
 
-p26 is accepted at IEEE TPAMI; because no IEEE early-access DOI is available yet, its Paper/PDF links and figure source use the arXiv version. Original thumbnails are crops from the linked papers or their author preprints. Cropping removes surrounding text and whitespace; it does not alter plot data or diagram contents. Concept sketches are newly drawn SVG summaries of titles or abstracts and are explicitly labeled in the UI. They do not claim to reproduce the original framework.
+p26 is accepted at IEEE TPAMI; until the formal version is published, the entry intentionally omits Paper, PDF, and Scholar links. Its figure source uses the arXiv version. Original thumbnails are crops from the source papers or their author preprints. Cropping removes surrounding text and whitespace; it does not alter plot data or diagram contents. Concept sketches are newly drawn SVG summaries of titles or abstracts and are explicitly labeled in the UI. They do not claim to reproduce the original framework.
 
 | ID | Work | Thumbnail | Figure source / basis | Crop bounds in PDF points |
 | --- | --- | --- | --- | --- |

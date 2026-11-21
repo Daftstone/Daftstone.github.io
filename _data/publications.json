@@ -8,9 +8,6 @@
       "detection",
       "trustworthy"
     ],
-    "paper": "https://arxiv.org/abs/2605.16107",
-    "preprint": "https://arxiv.org/abs/2605.16107",
-    "pdf": "https://arxiv.org/pdf/2605.16107",
     "thumbnail": "images/publications/p26.webp",
     "figure_type": "paper",
     "figure_caption": "The workflow of the multi-level contextual token relation modeling framework",

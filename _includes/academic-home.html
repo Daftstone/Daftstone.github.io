@@ -53,7 +53,9 @@
       <div class="publication-content">
         <h3 id="{{ paper.id }}">{% if paper.paper %}<a href="{{ paper.paper }}">{{ paper.title | escape }}</a>{% else %}{{ paper.title | escape }}{% endif %}</h3>
         <p class="publication-authors">{{ paper.authors | escape | replace: 'Chenwang Wu', '<strong>Chenwang Wu</strong>' }}</p>
+        {% if paper.paper or paper.pdf or paper.code %}
         <div class="paper-links">{% if paper.paper %}<a data-paper-link href="{{ paper.paper }}">Paper ↗</a>{% endif %}{% if paper.pdf %}<a href="{{ paper.pdf }}">PDF ↗</a>{% endif %}{% if paper.code %}<a href="{{ paper.code }}">Code ↗</a>{% endif %}<a href="https://scholar.google.com/scholar?q={{ paper.title | url_encode }}">Scholar ↗</a></div>
+        {% endif %}
       </div>
     </article>
     {% endfor %}
